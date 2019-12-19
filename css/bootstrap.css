@@ -52,7 +52,6 @@
 }
 
 
-
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -2010,6 +2009,7 @@ textarea.form-control {
 
 .form-group {
   margin-bottom: 1rem;
+  display:block;
 }
 
 .form-text {
