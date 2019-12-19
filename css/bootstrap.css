@@ -47,6 +47,12 @@
   padding-top: 2em;
 }
 
+.description {
+  text-align: center;
+}
+
+
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
